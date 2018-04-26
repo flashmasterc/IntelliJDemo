@@ -1,6 +1,6 @@
 package com.learning;
 
-public class Main {
+public class AnotherClass {
 
     public static void main(String[] args) {
 	    //int has a width of 32
